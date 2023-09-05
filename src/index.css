@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.nav-link {
+  color: black;
+  font-size: 2.2rem;
+  font-weight: 450;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding-right: 0.8rem ;
+  padding-left:  0.8rem
+}
